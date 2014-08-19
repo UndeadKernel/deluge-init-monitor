@@ -7,7 +7,7 @@ SOURCE_DIR = src
 CC = gcc
 
 # Run Options       
-COMMANDLINE_OPTIONS = -c /home/boy/development/deluge_monitor/deluge_monitor.conf
+COMMANDLINE_OPTIONS = -c /home/deluge/deluge_monitor.conf
 
 # Compiler options during compilation
 COMPILE_OPTIONS = -std=gnu99 -pedantic -Wall -O2
